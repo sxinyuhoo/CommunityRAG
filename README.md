@@ -1,2 +1,2 @@
-# CommunityRAG
-A RAG based on Community Detection and Graph
+# InsightRAG
+A RAG based on Tag, Community Detection, Graph and Reconclusion.
