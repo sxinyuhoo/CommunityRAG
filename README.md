@@ -1,2 +1,2 @@
-# QueryQuest
-A novel documents' Saver, Parser, Grapher, Embedder, Finder and Retriever based on RAG, LLM
+# CommunityRAG
+A RAG based on Community Detection and Graph
